@@ -1,0 +1,18 @@
+
+<suite name="Websites Suite">
+
+    <test name="Study Sites Module">
+        <classes>
+            <class name="TestNG.DemoReal.JobSitesTest"/>
+            <class name="TestNG.DemoReal.AISitesTest"/>
+        </classes>
+    </test>
+
+    <test name="Social Sites Module">
+        <classes>
+            <class name="TestNG.DemoReal.SocialSitesTest"/>
+        </classes>
+    </test>
+
+
+</suite>
